@@ -1,0 +1,1875 @@
+location = /en/Support/kb/View-Knowledgebase-Article/10250{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10250{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10250{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10251{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10251{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10251{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10248{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10248{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10248{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10143{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10143{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10143{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10230{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10230{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10230{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10229{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10229{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10229{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10228{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10228{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10228{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10225{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10225{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10225{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10227{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10227{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10227{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10224{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10224{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10224{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10226{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10226{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10226{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10222{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10222{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10222{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10221{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10221{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10221{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10219{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10219{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10219{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10218{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10218{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10218{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10217{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10217{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10217{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10215{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10215{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10215{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10213{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10213{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10213{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10212{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10212{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10212{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10189{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10189{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10189{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10210{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10210{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10210{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10211{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10211{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10211{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10209{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10209{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10209{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10208{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10208{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10208{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10207{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10207{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10207{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10186{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10186{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10186{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10205{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10205{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10205{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10204{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10204{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10204{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10202{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10202{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10202{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10197{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10197{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10197{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10036{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10036{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10036{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10196{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10196{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10196{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10195{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10195{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10195{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10191{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10191{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10191{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10190{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10190{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10190{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10188{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10188{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10188{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10054{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10054{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10054{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10091{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10091{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10091{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10190{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10190{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10190{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10177{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10177{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10177{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10173{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10173{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10173{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10168{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10168{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10168{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10164{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10164{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10164{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10140{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10140{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10140{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10161{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10161{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10161{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10160{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10160{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10160{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10159{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10159{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10159{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10016{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10016{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10016{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10112{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10112{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10112{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10151{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10151{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10151{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10148{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10148{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10148{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10147{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10147{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10147{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10146{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10146{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10146{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10145{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10145{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10145{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10144{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10144{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10144{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10141{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10141{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10141{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10070{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10070{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10070{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10136{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10136{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10136{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10135{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10135{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10135{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10134{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10134{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10134{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10133{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10133{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10133{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10131{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10131{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10131{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10048{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10048{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10048{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10116{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10116{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10116{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10111{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10111{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10111{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10109{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10109{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10109{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10110{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10110{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10110{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10108{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10108{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10108{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10106{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10106{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10106{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10105{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10105{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10105{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10104{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10104{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10104{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10100{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10100{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10100{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10096{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10096{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10096{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10088{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10088{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10088{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10089{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10089{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10089{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10076{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10076{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10076{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10073{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10073{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10073{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10071{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10071{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10071{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10057{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10057{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10057{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10067{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10067{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10067{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10062{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10062{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10062{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10056{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10056{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10056{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10058{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10058{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10058{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10059{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10059{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10059{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10060{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10060{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10060{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10053{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10053{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10053{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10052{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10052{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10052{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10051{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10051{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10051{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10050{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10050{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10050{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10049{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10049{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10049{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10047{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10047{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10047{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10046{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10046{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10046{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10045{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10045{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10045{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10044{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10044{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10044{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10043{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10043{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10043{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10042{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10042{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10042{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10040{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10040{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10040{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10039{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10039{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10039{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10033{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10033{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10033{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10034{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10034{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10034{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10032{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10032{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10032{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10024{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10024{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10024{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10031{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10031{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10031{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10028{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10028{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10028{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10029{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10029{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10029{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10027{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10027{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10027{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10025{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10025{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10025{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10022{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10022{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10022{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10021{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10021{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10021{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10020{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10020{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10020{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10019{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10019{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10019{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10018{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10018{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10018{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10017{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10017{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10017{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10009{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10009{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10009{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10014{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10014{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10014{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10013{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10013{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10013{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10010{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10010{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10010{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10007{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10007{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10007{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10008{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10008{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10008{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10004{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10004{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10004{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10006{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10006{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10006{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10005{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10005{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10005{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10003{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10003{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10003{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10002{
+  proxy_pass http://no-web-02/en/SupportKB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10002{
+  proxy_pass http://no-web-02/en/SupportKB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10002{
+  proxy_pass http://no-web-02/en/SupportKB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10000{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10000{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10000{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+

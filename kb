@@ -1,0 +1,1920 @@
+location = /en/Support/kb/View-Knowledgebase-Article/10371/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Error-SQL-Server-Express-with-Windows-Server-2012/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10371/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Error-SQL-Server-Express-with-Windows-Server-2012/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10371/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Error-SQL-Server-Express-with-Windows-Server-2012/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10370/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Internet-Explorer-8-required-for-FotoWeb-on-Windows-2003-server/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10370/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Internet-Explorer-8-required-for-FotoWeb-on-Windows-2003-server/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10370/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Internet-Explorer-8-required-for-FotoWeb-on-Windows-2003-server/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10368/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Photoshop-CS6-for-Mac-crashes-with-FotoWeb-Desktop/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10368/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Photoshop-CS6-for-Mac-crashes-with-FotoWeb-Desktop/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10368/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Photoshop-CS6-for-Mac-crashes-with-FotoWeb-Desktop/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10351/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/No-insert-from-FotoWeb-button-in-Word-or-PowerPoint/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10351/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/No-insert-from-FotoWeb-button-in-Word-or-PowerPoint/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10351/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/No-insert-from-FotoWeb-button-in-Word-or-PowerPoint/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10366/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Connect-does-not-support-HTML-email-body-text-from-Exchange-2010-over-IMAP-connections/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10366/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Connect-does-not-support-HTML-email-body-text-from-Exchange-2010-over-IMAP-connections/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10366/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Connect-does-not-support-HTML-email-body-text-from-Exchange-2010-over-IMAP-connections/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10305{
+  proxy_pass http://no-web-02/en/Support/kb/System-related-KBs/v70/Supported-file-formats-in-FotoWare-70-applications/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10305{
+  proxy_pass http://no-web-02/en/Support/kb/System-related-KBs/v70/Supported-file-formats-in-FotoWare-70-applications/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10305{
+  proxy_pass http://no-web-02/en/Support/kb/System-related-KBs/v70/Supported-file-formats-in-FotoWare-70-applications/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10334{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Installing-an-earlier-version-of-FotoStation-for-Macintosh/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10334{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Installing-an-earlier-version-of-FotoStation-for-Macintosh/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10334{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Installing-an-earlier-version-of-FotoStation-for-Macintosh/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10364/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Enabling-maps/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10364/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Enabling-maps/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10364/{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Enabling-maps/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10233{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Location-of-Configuration-Files-in-FotoStation-for-Mac-OS-X/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10233{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Location-of-Configuration-Files-in-FotoStation-for-Mac-OS-X/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10233{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Location-of-Configuration-Files-in-FotoStation-for-Mac-OS-X/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10237{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Location-of-Configuration-Files-in-FotoStation-for-Windows/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10237{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Location-of-Configuration-Files-in-FotoStation-for-Windows/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10237{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Location-of-Configuration-Files-in-FotoStation-for-Windows/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10363{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Alternatives-to-regular-online-activation-of-FotoWare-software/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10363{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Alternatives-to-regular-online-activation-of-FotoWare-software/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10363{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Alternatives-to-regular-online-activation-of-FotoWare-software/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10245{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Activating-a-FotoWare-license-with-a-license-file-or-license-server/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10245{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Activating-a-FotoWare-license-with-a-license-file-or-license-server/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10245{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Activating-a-FotoWare-license-with-a-license-file-or-license-server/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10264{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Setting-up-a-FotoWare-License-Server---Quick-Start/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10264{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Setting-up-a-FotoWare-License-Server---Quick-Start/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10264{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Setting-up-a-FotoWare-License-Server---Quick-Start/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10291{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Offline-activation-procedure-for-FotoWare-software/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10291{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Offline-activation-procedure-for-FotoWare-software/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10291{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Offline-activation-procedure-for-FotoWare-software/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10362{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Operations-Center-crashes-on-Mac/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10362{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Operations-Center-crashes-on-Mac/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10362{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Operations-Center-crashes-on-Mac/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10360{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/SSL-and-SSO-Compatibility-chart/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10360{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/SSL-and-SSO-Compatibility-chart/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10360{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/SSL-and-SSO-Compatibility-chart/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10359{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Storage-architecture-considerations/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10359{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Storage-architecture-considerations/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10359{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Storage-architecture-considerations/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10358{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/What-do-the-cookies-do/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10358{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/What-do-the-cookies-do/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10358{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/What-do-the-cookies-do/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10357{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Dates-before-year-100-unsupported/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10357{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Dates-before-year-100-unsupported/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10357{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Dates-before-year-100-unsupported/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10356{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Failure-to-transfer-files-with-special-characters/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10356{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Failure-to-transfer-files-with-special-characters/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10356{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Failure-to-transfer-files-with-special-characters/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10234{
+  proxy_pass http://no-web-02
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10234{
+  proxy_pass http://no-web-02
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10234{
+  proxy_pass http://no-web-02
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10355{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Custom-logo-for-apps/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10355{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Custom-logo-for-apps/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10355{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Custom-logo-for-apps/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10354{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Where-does-FotoWeb-Desktop-store-files/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10354{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Where-does-FotoWeb-Desktop-store-files/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10354{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Where-does-FotoWeb-Desktop-store-files/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10342{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/How-Data-Mining-works/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10342{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/How-Data-Mining-works/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10342{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/How-Data-Mining-works/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10175{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Job-Request-File-specification-JRF/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10175{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Job-Request-File-specification-JRF/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10175{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Job-Request-File-specification-JRF/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10353{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Caching-in-Index-Manager-70/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10353{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Caching-in-Index-Manager-70/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10353{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Caching-in-Index-Manager-70/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10349{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/FWDT-download-URL/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10349{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/FWDT-download-URL/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10349{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/FWDT-download-URL/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10306{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Specifying-another-project-server-database/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10306{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Specifying-another-project-server-database/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10306{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Specifying-another-project-server-database/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10352{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Upgrading-from-v6-to-70-SR4/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10352{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Upgrading-from-v6-to-70-SR4/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10352{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Upgrading-from-v6-to-70-SR4/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10261{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Backing-up-and-restoring-licenses/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10261{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Backing-up-and-restoring-licenses/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10261{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Backing-up-and-restoring-licenses/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10350{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/No-preview-in-FotoWeb-Desktop/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10350{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/No-preview-in-FotoWeb-Desktop/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10350{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/No-preview-in-FotoWeb-Desktop/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10348{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Error-message-trying-to-uninstall/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10348{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Error-message-trying-to-uninstall/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10348{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Error-message-trying-to-uninstall/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10347{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Unable-to-start-services-after-upgrade/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10347{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Unable-to-start-services-after-upgrade/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10347{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Unable-to-start-services-after-upgrade/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10346{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Speed-comparison-with-Distribution-Manager/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10346{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Speed-comparison-with-Distribution-Manager/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10346{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Speed-comparison-with-Distribution-Manager/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10345{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Writing-the-event-log-to-a-database/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10345{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Writing-the-event-log-to-a-database/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10345{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Writing-the-event-log-to-a-database/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10344{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/User-access-control-settings/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10344{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/User-access-control-settings/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10344{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/User-access-control-settings/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10343{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Notify-administration-about-new-user-registrations/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10343{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Notify-administration-about-new-user-registrations/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10343{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Notify-administration-about-new-user-registrations/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10023{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/How-to-contact-support/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10023{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/How-to-contact-support/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10023{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/How-to-contact-support/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10341{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Disabling-ActiveX-installer-for-FotoWeb-Desktop/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10341{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Disabling-ActiveX-installer-for-FotoWeb-Desktop/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10341{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Disabling-ActiveX-installer-for-FotoWeb-Desktop/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10339{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Why-is-the-built-in-homepage-always-used/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10339{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Why-is-the-built-in-homepage-always-used/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10339{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Why-is-the-built-in-homepage-always-used/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10338{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Changing-date-formatting-in-templates/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10338{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Changing-date-formatting-in-templates/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10338{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Changing-date-formatting-in-templates/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10337{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Silverlight-plugin-displays-error-message/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10337{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Silverlight-plugin-displays-error-message/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10337{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Silverlight-plugin-displays-error-message/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10313{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Log-reports-HTTP-ADDURL-FAILED/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10313{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Log-reports-HTTP-ADDURL-FAILED/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10313{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Log-reports-HTTP-ADDURL-FAILED/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10336{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Moving-your-license-to-another-computer/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10336{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Moving-your-license-to-another-computer/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10336{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Moving-your-license-to-another-computer/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10068{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Archive-Agent-Documentation/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10068{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Archive-Agent-Documentation/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10068{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Archive-Agent-Documentation/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10318{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Operations-Center-hangs-when-logging-in/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10318{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Operations-Center-hangs-when-logging-in/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10318{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Operations-Center-hangs-when-logging-in/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10319{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Indexing-INDD-documents-with-Adobe-InDesign-Server/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10319{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Indexing-INDD-documents-with-Adobe-InDesign-Server/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10319{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Indexing-INDD-documents-with-Adobe-InDesign-Server/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10322{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Offline-activation-fails/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10322{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Offline-activation-fails/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10322{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Offline-activation-fails/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10263{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Installing-on-Citrix-or-Terminal-Server/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10263{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Installing-on-Citrix-or-Terminal-Server/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10263{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Installing-on-Citrix-or-Terminal-Server/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10325{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10325{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10325{
+  proxy_pass http://no-web-02/en/Support/KB/Obsolete/This-article-is-outdated/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10283{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Downgrade-to-an-earlier-version/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10283{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Downgrade-to-an-earlier-version/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10283{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Downgrade-to-an-earlier-version/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10292{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Not-compatible-with-Snow-Leopard/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10292{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Not-compatible-with-Snow-Leopard/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10292{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Not-compatible-with-Snow-Leopard/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10061{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/PICT-preview-for-EPS-files-is-not-created/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10061{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/PICT-preview-for-EPS-files-is-not-created/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10061{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/PICT-preview-for-EPS-files-is-not-created/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10182{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/Channel-no-49-fails/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10182{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/Channel-no-49-fails/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10182{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/Channel-no-49-fails/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10149{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Process-Sequence/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10149{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Process-Sequence/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10149{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Process-Sequence/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10335{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Product-key-for-deployment-testing/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10335{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Product-key-for-deployment-testing/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10335{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Product-key-for-deployment-testing/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10324{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/No-license-found-when-accessing-site/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10324{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/No-license-found-when-accessing-site/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10324{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/No-license-found-when-accessing-site/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10332{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Cannot-change-config-type/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10332{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Cannot-change-config-type/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10332{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Cannot-change-config-type/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10330{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Set-up-virus-scanning/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10330{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Set-up-virus-scanning/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10330{
+  proxy_pass http://no-web-02/en/Support/KB/Connect/v70/Set-up-virus-scanning/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10328{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Reinstalling-FotoWeb-Desktop/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10328{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Reinstalling-FotoWeb-Desktop/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10328{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Reinstalling-FotoWeb-Desktop/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10327{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Reset-configuration-password/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10327{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Reset-configuration-password/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10327{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Reset-configuration-password/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10326{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Users-without-password-cannot-connect/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10326{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Users-without-password-cannot-connect/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10326{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v70/Users-without-password-cannot-connect/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10323{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Log-message-Thesaurus-not-loaded/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10323{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Log-message-Thesaurus-not-loaded/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10323{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Log-message-Thesaurus-not-loaded/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10321{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Creating-a-32-bit-system-DSN-on-a-64-bit-server/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10321{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Creating-a-32-bit-system-DSN-on-a-64-bit-server/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10321{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/Creating-a-32-bit-system-DSN-on-a-64-bit-server/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10320{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Grid-appears-distorted/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10320{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Grid-appears-distorted/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10320{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Grid-appears-distorted/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10317{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Value-was-either-too-large-or-too-small-for-an-Int32/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10317{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Value-was-either-too-large-or-too-small-for-an-Int32/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10317{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Value-was-either-too-large-or-too-small-for-an-Int32/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10315{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Services-wont-start-after-upgrade-from-version-60/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10315{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Services-wont-start-after-upgrade-from-version-60/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10315{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Services-wont-start-after-upgrade-from-version-60/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10316{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Cannot-access-after-upgrade-from-version-60/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10316{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Cannot-access-after-upgrade-from-version-60/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10316{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Cannot-access-after-upgrade-from-version-60/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10314{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/changing-comm-ports/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10314{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/changing-comm-ports/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10314{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/changing-comm-ports/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10312{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Uploading-files-larger-than-30mb/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10312{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Uploading-files-larger-than-30mb/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10312{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Uploading-files-larger-than-30mb/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10236{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FAQ-about-upgrading-to-FotoStation-60/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10236{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FAQ-about-upgrading-to-FotoStation-60/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10236{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FAQ-about-upgrading-to-FotoStation-60/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10284{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/What-to-do-if-FotoStation-crashes/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10284{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/What-to-do-if-FotoStation-crashes/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10284{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/What-to-do-if-FotoStation-crashes/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10242{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FotoWare-60-on-64bit-windows/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10242{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FotoWare-60-on-64bit-windows/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10242{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FotoWare-60-on-64bit-windows/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10273{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/FotoWeb-on-64bit-Windows/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10273{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/FotoWeb-on-64bit-Windows/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10273{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/FotoWeb-on-64bit-Windows/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10310{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Importing-DICOM-editor/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10310{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Importing-DICOM-editor/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10310{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Importing-DICOM-editor/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10309{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/CDROM-installers-attempt-to-download-NET/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10309{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/CDROM-installers-attempt-to-download-NET/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10309{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/CDROM-installers-attempt-to-download-NET/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10308{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Can-I-store-my-assets-on-a-NAS/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10308{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Can-I-store-my-assets-on-a-NAS/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10308{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Can-I-store-my-assets-on-a-NAS/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10307{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/ASP-Workflow-module-unavailable/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10307{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/ASP-Workflow-module-unavailable/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10307{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/ASP-Workflow-module-unavailable/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10293{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Manually-adding-components-to-win2008/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10293{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Manually-adding-components-to-win2008/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10293{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Manually-adding-components-to-win2008/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10303{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Services-stopped-during-upgrade/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10303{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Services-stopped-during-upgrade/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10303{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Services-stopped-during-upgrade/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10302{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Script-processing-reports-no-license-found/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10302{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Script-processing-reports-no-license-found/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10302{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Script-processing-reports-no-license-found/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10299{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Monitoring-the-application-log-in-realtime/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10299{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Monitoring-the-application-log-in-realtime/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10299{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Monitoring-the-application-log-in-realtime/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10300{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Testing-the-log-server/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10300{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Testing-the-log-server/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10300{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Testing-the-log-server/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10301{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/log-server-60-and-70/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10301{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/log-server-60-and-70/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10301{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/log-server-60-and-70/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10297{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Why-is-IIS-required/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10297{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Why-is-IIS-required/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10297{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Why-is-IIS-required/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10296{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/High-memory-usage/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10296{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/High-memory-usage/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10296{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v70/High-memory-usage/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10295{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Downloads-fail/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10295{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Downloads-fail/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10295{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Downloads-fail/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10294{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Installing-IIS-for-FotoWare-70/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10294{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Installing-IIS-for-FotoWare-70/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10294{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Installing-IIS-for-FotoWare-70/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10249{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FotoWare-5-and-6-on-same-server/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10249{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FotoWare-5-and-6-on-same-server/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10249{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FotoWare-5-and-6-on-same-server/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10290{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Multi-search-drag-and-drop/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10290{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Multi-search-drag-and-drop/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10290{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Multi-search-drag-and-drop/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10288{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Raw-format-error-message/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10288{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Raw-format-error-message/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10288{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Raw-format-error-message/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10289{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/Optimizing-JPEG-Copy-channels/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10289{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/Optimizing-JPEG-Copy-channels/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10289{
+  proxy_pass http://no-web-02/en/Support/KB/Color-Factory/v60/Optimizing-JPEG-Copy-channels/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10287{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/COM-components-crash/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10287{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/COM-components-crash/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10287{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/COM-components-crash/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10286{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/EXIF-tag-in-Scripting/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10286{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/EXIF-tag-in-Scripting/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10286{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/EXIF-tag-in-Scripting/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10282{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Activation-trouble/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10282{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Activation-trouble/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10282{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Activation-trouble/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10252{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Getting-updates/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10252{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Getting-updates/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10252{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Getting-updates/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10172{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Custom-Server-Processing/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10172{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Custom-Server-Processing/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10172{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v70/Custom-Server-Processing/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10281{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Correct-codepage-in-quicklists/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10281{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Correct-codepage-in-quicklists/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10281{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Correct-codepage-in-quicklists/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10280{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Newer-sw-than-product-key-allows/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10280{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Newer-sw-than-product-key-allows/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10280{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Newer-sw-than-product-key-allows/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10180{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Limitations-of-ASPnet-reporting/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10180{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Limitations-of-ASPnet-reporting/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10180{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Limitations-of-ASPnet-reporting/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10279{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Restart-every-6-hours/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10279{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Restart-every-6-hours/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10279{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Restart-every-6-hours/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10278{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v60/Index-office-documents/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10278{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v60/Index-office-documents/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10278{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v60/Index-office-documents/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10277{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Database-backup-error/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10277{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Database-backup-error/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10277{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Database-backup-error/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10276{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Change-search-behavior-in-gridfwx/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10276{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Change-search-behavior-in-gridfwx/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10276{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Change-search-behavior-in-gridfwx/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10275{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v60/Browse-limit-and-data-mining/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10275{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v60/Browse-limit-and-data-mining/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10275{
+  proxy_pass http://no-web-02/en/Support/KB/Index-Manager/v60/Browse-limit-and-data-mining/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10274{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Modify-user-list-in-reports/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10274{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Modify-user-list-in-reports/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10274{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Modify-user-list-in-reports/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10244{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Activation-using-logon-script/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10244{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Activation-using-logon-script/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10244{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Activation-using-logon-script/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10233{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Configuration-files-OSX/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10233{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Configuration-files-OSX/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10233{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Configuration-files-OSX/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10272{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Error---No-upload-receipt-received/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10272{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Error---No-upload-receipt-received/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10272{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Error---No-upload-receipt-received/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10270{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Metadata-disappears/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10270{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Metadata-disappears/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10270{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Metadata-disappears/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10271{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Incorrect-or-corrupt-IPTC/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10271{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Incorrect-or-corrupt-IPTC/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10271{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Incorrect-or-corrupt-IPTC/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10269{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Workflow-fails/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10269{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Workflow-fails/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10269{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Workflow-fails/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10268{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/file-not-marked-for-installation/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10268{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/file-not-marked-for-installation/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10268{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/file-not-marked-for-installation/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10266{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Migrate-FS-server-config-from-v5-to-6/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10266{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Migrate-FS-server-config-from-v5-to-6/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10266{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Migrate-FS-server-config-from-v5-to-6/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10257{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Configure-FS-for-server-config/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10257{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Configure-FS-for-server-config/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10257{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v70/Configure-FS-for-server-config/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10265{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Online-registration-fails/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10265{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Online-registration-fails/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10265{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Online-registration-fails/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10241{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Repairing-a-license/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10241{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Repairing-a-license/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10241{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Repairing-a-license/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10262{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Win-2008-support/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10262{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Win-2008-support/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10262{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/Win-2008-support/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10259{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Third-party-policy/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10259{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Third-party-policy/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10259{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v70/Third-party-policy/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10258{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FS-display-templates/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10258{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FS-display-templates/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10258{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FS-display-templates/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10240{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FS6-licensing/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10240{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FS6-licensing/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10240{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/FS6-licensing/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10253{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Install-more-than-once/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10253{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Install-more-than-once/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10253{
+  proxy_pass http://no-web-02/en/Support/KB/FotoStation/v60/Install-more-than-once/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10243{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FW6-Virtual/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10243{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FW6-Virtual/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10243{
+  proxy_pass http://no-web-02/en/Support/KB/System-related-KBs/v60/FW6-Virtual/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10247{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/COM-object-error/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10247{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/COM-object-error/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10247{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/COM-object-error/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10246{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Activation-problems/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10246{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Activation-problems/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10246{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/Activation-problems/
+}
+
+
+location = /en/Support/kb/View-Knowledgebase-Article/10239{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/AD-Issues/
+}
+
+
+location = /de/Support/kb/View-Knowledgebase-Article/10239{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/AD-Issues/
+}
+
+
+location = /no/Support/kb/View-Knowledgebase-Article/10239{
+  proxy_pass http://no-web-02/en/Support/KB/FotoWeb/v60/AD-Issues/
+}
+
+
+location = /enNext Page{
+  proxy_pass http://no-web-02
+}
+
+
+location = /deNext Page{
+  proxy_pass http://no-web-02
+}
+
+
+location = /noNext Page{
+  proxy_pass http://no-web-02
+}
+
+
+location = /enNext Page{
+  proxy_pass http://no-web-02
+}
+
+
+location = /deNext Page{
+  proxy_pass http://no-web-02
+}
+
+
+location = /noNext Page{
+  proxy_pass http://no-web-02
+}
+
+
