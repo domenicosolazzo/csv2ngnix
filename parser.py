@@ -16,30 +16,35 @@ parser.add_argument('--language', action="append", help="Languags for localizing
 args = parser.parse_args()
 
 def printLocation(scheme, host, language, oldUrl, newUrl, f):
-        if language:
+	if language:
             print("location = /" + language + oldUrl + "{", file=f)
         else:
             print("location = /" + oldUrl + "{", file=f)
-        print("  proxy_pass " + scheme + "://" + host + newUrl, file=f)
+	print("  proxy_pass " + scheme + "://" + host + newUrl +  ";", file=f)
         print("}", file=f)
         print(os.linesep, file=f)
-
+	trailing = ""
 
 def parseCSV(filename,  oldHostUrl, newHostUrl):
     urls = []
     urls_obsolete = []
+    parsed = []
     with open(filename, "rb") as f:
-	print(f)
+	
         reader = csv.reader(f)
-        rows = [r for  r in reader if (r[0] and not (r[0] == "Next page"))  ][1:]
-        for row in rows:
-            oldUrl = row[0].replace(oldHostUrl, '').strip()
-            newUrl = row[1].replace(newHostUrl, '').strip()
-            isObsolete = row[3].lower() in ['true', 1, '1', 'obsolete']
-            if isObsolete:
-                urls_obsolete.append((oldUrl, newUrl))
-            else:
-                urls.append((oldUrl, newUrl))
+        rows = [r for  r in reader if (r[0] and not (r[0].lower() == "next page"))  ][1:]
+	for row in rows:
+            oldUrl = os.path.normpath(row[0].replace(oldHostUrl, '').strip())
+            if not oldUrl in parsed:
+		newUrl = row[1].replace(newHostUrl, '').strip()
+           	isObsolete = row[3].lower() in ['true', 1, '1', 'obsolete']
+            	if isObsolete:	
+                	urls_obsolete.append((oldUrl, newUrl))
+			urls_obsolete.append((oldUrl + os.sep, newUrl))
+            	else:
+                	urls.append((oldUrl, newUrl))
+			urls.append((oldUrl + os.sep, newUrl))
+	    	parsed.append(oldUrl)
     return (urls, urls_obsolete)
 def translateToNgnix(outputFileName, scheme, host, urls, languages):    
     with open(outputFileName, "w") as f:
@@ -59,5 +64,7 @@ baseNewUrl = args.base_new_url
 language = args.language
 
 urls = parseCSV(csvFilename, baseOldUrl, baseNewUrl)
+
+#print(urls[0])	
 translateToNgnix(output, scheme, upstream, urls[0], language)
 translateToNgnix(output+"_obsolete", scheme, upstream, urls[1], language)
